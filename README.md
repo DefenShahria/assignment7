@@ -1,16 +1,6 @@
 # assignment 7
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![353075702_292550669886976_5229514891861224529_n](https://github.com/DefenShahria/assignment7/assets/101829607/56b980bb-086b-430b-b5bf-e55ee51839b9)
+![353053277_265373002702797_485055936602398303_n](https://github.com/DefenShahria/assignment7/assets/101829607/6bfceeda-08a3-47bc-aed4-b7379cbd41e5)
+![353078874_1297395340866361_2411580351711177564_n](https://github.com/DefenShahria/assignment7/assets/101829607/ad5725b8-048e-4c37-9002-0050f9c20fa8)
+![353077179_812801177026655_99542305351218787_n](https://github.com/DefenShahria/assignment7/assets/101829607/86abd0a2-023e-4e19-a116-fafaf73d5d47)
